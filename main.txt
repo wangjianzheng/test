@@ -1,6 +1,8 @@
 import wjz
-
+import add.txt
 
 main(){
 	print (wjz)
+	int x=4,y=5;
+	int z = add()
 }
