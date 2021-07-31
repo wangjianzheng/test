@@ -5,3 +5,11 @@ int add(int x, int y){
 double add(double x, double y){
 return x+y;
 }
+
+T add(T x, T y){
+    //start add
+    //run add
+    temp = x + y;
+    //return add
+    return temp
+}
