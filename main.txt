@@ -1,8 +1,10 @@
 import wjz
 import multiply.txt
+import add.txt
 
 main(){
 	print (wjz)
 	int x=4,y=6;
-	int z = multi(x,y)
+	int m = multi(x,y)
+	int a = add(x,y)
 }
