@@ -1,6 +1,8 @@
 import wjz
-
+import multiply.txt
 
 main(){
 	print (wjz)
+	int x=4,y=6;
+	int z = multi(x,y)
 }
