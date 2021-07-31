@@ -1,0 +1,6 @@
+import wjz
+
+
+main(){
+	print (wjz)
+}
